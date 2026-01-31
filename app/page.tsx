@@ -5,11 +5,10 @@ export default function Home() {
       <div className="container mx-auto px-4 py-16">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">
-            Your Training Plan That Actually Adapts to Life
+            Your Training Plan that Adapts to Changes
           </h1>
           <p className="text-xl text-gray-600 mb-8">
-            Voice journal after runs. AI analyzes your Strava data + how you feel. 
-            Your plan adapts automatically when life gets messy.
+            Voice and Video journals. AI analyzes. Adapts plan with your end goal in mind.
           </p>
           
           {/* Email Signup */}
@@ -25,7 +24,7 @@ export default function Home() {
           </div>
 
           <p className="text-sm text-gray-500">
-            Coming February 2026 • Built for runners, cyclists, and athletes
+            Coming February 2026 • Built for and by runners
           </p>
         </div>
 
